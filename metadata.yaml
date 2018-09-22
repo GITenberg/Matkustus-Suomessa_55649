@@ -1,0 +1,32 @@
+_repo: Matkustus-Suomessa_55649
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Sakarias
+    - Topelius, Zakris
+    - Topelius, Zachris
+    - Topelius, Zakarias
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+description: ''
+gutenberg_issued: '2017-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55649'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Finland -- Description and travel'
+- GITenberg
+title: Matkustus Suomessa
+url: http://www.gutenberg.org/ebooks/55649
